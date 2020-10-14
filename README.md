@@ -1,6 +1,5 @@
 # Machine Learning 101
 
----
 Basic Machine Learning concepts implemented in Python.
 
 ### Sources 
